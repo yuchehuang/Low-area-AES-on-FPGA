@@ -4,6 +4,8 @@ This project was implemented for EEE6225 System Design module in University of S
 
 Group members: Yuche Huang, Yukun Liu, Congbo Zhang, Jiahan Zhang
 
+
+## 
 * This project is our implementation of low-area AES on FPGA
 
 * The system is acheived by offering 572 slices and 55.59 Mbps

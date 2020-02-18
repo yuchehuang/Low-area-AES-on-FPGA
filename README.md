@@ -5,9 +5,15 @@ This project was implemented for EEE6225 System Design module in University of S
 Group members: Yuche Huang, Yukun Liu, Congbo Zhang, Jiahan Zhang
 
 
-## 
-* This project is our implementation of low-area AES on FPGA
+## Abstract 
+* This project is our implementation of low-area AES on FPGA with permission of our group mates to upload
 
-* The system is acheived by offering 572 slices and 55.59 Mbps
+* The system is acheived by 572 slices and offering 55.59 Mbps as thruoghput
 
 * The detial of the deisgn can be found in the [report](https://github.com/yuchehuang/Low-area-AES-on-FPGA/blob/master/Low%20area%20implementation%20of%20AES%20on%20FPGA.pdf)
+
+## Advice 
+
+The design still has something to improve. Due to some of the registers is created by ourselves, the slice used of the component is not optimised and will occupy a considerable slice. I recommend future students to use the components in the libraries directly to achieve the work in low-area.
+
+Please feel free to use as the reference material and do not copy it directly. It will be identified by plagiarism detection software. 

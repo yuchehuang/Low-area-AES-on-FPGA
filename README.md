@@ -14,6 +14,6 @@ Group members: Yuche Huang, Yukun Liu, Congbo Zhang, Jiahan Zhang
 
 ## Advice 
 
-The design still has something to improve. Due to some of the registers is created by ourselves, the slice used of the component is not optimised and will occupy a considerable slice. I recommend future students to use the components in the libraries directly to achieve the work in low-area.
+The design still has something to improve. Due to some of the registers is created by ourselves, the slice used of the component is not optimised by the development sofware (xilinx) and will occupy a considerable slice. I recommend future students to use the components in the libraries directly to achieve the work in low-area.
 
 Please feel free to use as the reference material and do not copy it directly. It will be identified by plagiarism detection software. 
